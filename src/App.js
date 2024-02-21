@@ -1,5 +1,5 @@
 // import { Route, Routes } from 'react-router-dom';
-// import './App.css';
+import './App.css';
 // import Home from './components/Home';
 
 // import ChatBot from 'react-simple-chatbot';
@@ -121,7 +121,7 @@
 
 import React from 'react';
 import Chatbot from './components/Chatbot';
-import "C:/Users/sande/Desktop/React/myreactapp/src/styles/chatbot.css"
+// import "C:/Users/sande/Desktop/React/myreactapp/src/styles/chatbot.css"
 
 const App = () => {
   return (
